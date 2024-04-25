@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020033892015",
+    "project_id": "login-register-app-5d484",
+    "storage_bucket": "login-register-app-5d484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020033892015:android:6f8f71bdf4963992a15e5a",
+        "android_client_info": {
+          "package_name": "com.example.register_screen_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyb1mjLmXkWYe3-t_SS3NIHS4Q76WUhaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
